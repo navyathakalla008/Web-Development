@@ -1,3 +1,5 @@
+Home Tuition Platform
+
 ✅ Purpose of the Home Tuition Platform
 The Home Tuition Platform is designed to connect students with qualified tutors for personalized learning. It offers online and offline tuition services covering subjects from primary education to BTech courses. The platform ensures easy navigation, allowing students to:
 
