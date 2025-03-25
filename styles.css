@@ -1,0 +1,24 @@
+body {
+            background-color: #526271;
+            font-family: Arial, sans-serif;
+        }
+        .hero {
+            background: url('https://source.unsplash.com/1600x600/?education,learning') no-repeat center;
+            background-size: cover;
+            height: 400px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+        }
+        .card {
+            transition: transform 0.3s ease-in-out;
+        }
+        .card:hover {
+            transform: scale(1.05);
+        }
+        .teacher-details {
+            display: none;
+            padding-top: 10px;
+        }
